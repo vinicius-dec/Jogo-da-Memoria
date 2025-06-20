@@ -1,10 +1,10 @@
 const cards_img = [
-    "/img/jett.jpg",
-    "/img/killjoy.jpg",
-    "/img/raze.jpg",
-    "/img/omen.jpg",
-    "/img/sova.jpg",
-    "/img/viper.jpg",
+    "./img/jett.jpg",
+    "./img/killjoy.jpg",
+    "./img/raze.jpg",
+    "./img/omen.jpg",
+    "./img/sova.jpg",
+    "./img/viper.jpg",
 ];
 
 const ONE_SECOND= 1_000
